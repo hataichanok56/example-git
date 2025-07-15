@@ -2,5 +2,8 @@
 test git 
 สวัสดีคับ
 # HELLO Git
-df
-jblliuvlubi'p
+<<<<<<< HEAD
+=======
+>>>>>>> parent of ddf8e93 (update)
+
+hataichanok
