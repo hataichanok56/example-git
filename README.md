@@ -6,4 +6,4 @@ test git
 =======
 >>>>>>> parent of ddf8e93 (update)
 
-hataichanok
+hataichanok tansakul
